@@ -10,7 +10,7 @@ Defines a Matrix class that allows mathematical operations (addition, subtractio
 #1 TODO: Create subtraction function(s)
 #2 TODO: Create multiplication function(s)
 #1 TODO: Don't allow the creation of matrices that have rows and/or columns with different lengths.
-#2 TODO: Handle errors that occur from improper matrix addition. """
+#2 TODO: Handle errors that occur from improper matrix addition.
 #3 TODO: Handle errors raised when user passes improper parameters into class constructor
 #4 TODO: Figure out how to better implement functions into __init__ function
 
